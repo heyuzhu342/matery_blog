@@ -168,7 +168,7 @@ SIMPLEUI_CONFIG = {
             'url': '/admin/blog/tag/'
         }]
     }, {
-        'name': '成员',
+        'name': '友链成员',
         'icon': 'far fa-user',
         'url': '/admin/blog/link/'
     }, {

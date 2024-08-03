@@ -80,7 +80,7 @@ class Article(models.Model):
 
 
 class Link(models.Model):
-    '''成员'''
+    '''友链'''
     title = models.CharField(max_length=10, verbose_name='标题')
     url = models.URLField(verbose_name='网址', blank=True)
     avatar = models.URLField(default='https://i.loli.net/2020/04/23/jGP8gQOYW75TSJp.png', verbose_name='头像')
@@ -88,7 +88,7 @@ class Link(models.Model):
     button_word = models.CharField(default='访问博客', max_length=10, verbose_name='跳转文字')
 
     class Meta:
-        verbose_name = verbose_name_plural = '成员'
+        verbose_name = verbose_name_plural = '友链成员'
 
     # 后台头像预览
     def avatar_admin(self):
