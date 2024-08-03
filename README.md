@@ -4,7 +4,7 @@
 	<a href="https://github.com/jwt1399/Django-Blog"><img alt="Django-Blog" src="https://img.shields.io/github/stars/jwt1399/Django-Blog.svg"></a>
 	<a href="https://github.com/jwt1399/Django-Blog"><img alt="Django-Blog" src="https://img.shields.io/github/forks/jwt1399/Django-Blog.svg"></a>
 </p>
-<p align="center"><span>如果你觉得本项目还不错的话，请给一个❤️Star & Fork❤️吧，感谢感谢🤝</span></p>
+<p align="center"><span>项目非本人原创，为了适应仅计划在原版基础上进行微调。如果你觉得本项目还不错的话，可以到https://github.com/jwt1399/django-matery-blog 查看原创</span></p>
 
 
 
